@@ -45,4 +45,18 @@ Project:
 - Added email icon inside input field
 - Styled reset button
 - Added Back to Login navigation
+### Authentication UI Flow
+
+Learned:
+- Better UI alignment
+- Input field styling
+- Icons in Figma
+- Prototype navigation
+- Connecting multiple screens
+
+Project:
+- Login Screen
+- Signup Screen
+- Forgot Password Screen
+- Connected screens using Prototype
   
