@@ -30,4 +30,19 @@ Learned:
 Project:
 - Connected Login and Signup screens with clickable navigation
 - Created first prototype flow
+## Day 4
+### Forgot Password Screen
+
+Learned:
+- Adding icons in Figma
+- Better button styling
+- Typography improvements
+- Cleaner spacing and alignment
+- UI consistency
+
+Project:
+- Created Forgot Password screen
+- Added email icon inside input field
+- Styled reset button
+- Added Back to Login navigation
   
