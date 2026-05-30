@@ -59,4 +59,18 @@ Project:
 - Signup Screen
 - Forgot Password Screen
 - Connected screens using Prototype
+## Day 5
+### Beginner Profile UI
+
+Learned:
+- Better spacing and alignment
+- Profile screen design
+- Icons usage
+- Button styling
+- Color consistency
+- Rounded corners and clean UI
+
+Project:
+- Designed a beginner-level Profile Screen in Figma
+- Added profile image, contact details, and Edit Profile button
   
