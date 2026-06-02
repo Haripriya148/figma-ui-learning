@@ -73,4 +73,20 @@ Learned:
 Project:
 - Designed a beginner-level Profile Screen in Figma
 - Added profile image, contact details, and Edit Profile button
+# Day 6 – Spotly UI/UX Design 📍
+
+A UI/UX mobile app concept designed in Figma as part of my UI learning journey.
+
+**Spotly – One City, One App** helps users explore nearby restaurants, entertainment, accommodation, and places in a city.
+
+### Day 6 Progress
+
+* Splash Screen
+* Login Screen
+* Signup Screen
+* Forgot Password Screen
+* Home Screen
+
+Currently building this project while learning UI/UX design in Figma.
+
   
